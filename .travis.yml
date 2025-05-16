@@ -21,5 +21,5 @@ after_success:
   - docker push fatems/multi-client
   - docker push fatems/multi-nginx
   - docker push fatems/multi-server
-  - docker push fatems/multi-worker
+  - docker push fatems/multi-worker 
   
